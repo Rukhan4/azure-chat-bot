@@ -16,7 +16,12 @@
   const styleSet = window.WebChat.createStyleSet({
     backgroundColor: "#B0A8B9",
     bubbleBackground: "white",
+    bubbleBorderRadius: 20,
     bubbleFromUserBackground: "white",
+    bubbleFromUserBorderRadius: 20,
+    sendBoxHeight: 30,
+    sendBoxBorderBottom: "solid 1px #B0A8B9",
+    groupTimestamp: true,
   });
 
   // Change css style
@@ -27,11 +32,17 @@
     fontSize: "1.1em",
   };
 
+  const avatarOptions = {
+    botAvatarInitials: "AB",
+    userAvatarInitials: "YOU",
+  };
+
   // Initiate the bot
   window.WebChat.renderWebChat(
     {
       directLine: window.WebChat.createDirectLine({ token }),
       styleSet,
+      styleOptions: avatarOptions,
     },
     document.getElementById("webchat")
   );
