@@ -12,9 +12,16 @@
 
   const { token } = await res.json();
 
+  // Set CSS rules
+  const styleSet = window.WebChat.createStyleSet({
+    backgroundColor: "#FFD580",
+    bubbleBackground: "white",
+  });
+
   window.WebChat.renderWebChat(
     {
       directLine: window.WebChat.createDirectLine({ token }),
+      styleSet,
     },
     document.getElementById("webchat")
   );
