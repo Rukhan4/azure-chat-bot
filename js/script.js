@@ -22,6 +22,8 @@
     sendBoxHeight: 30,
     sendBoxBorderBottom: "solid 1px #B0A8B9",
     groupTimestamp: true,
+    userAvatarBackgroundColor: "grey",
+    botAvatarBackgroundColor: "black",
   });
 
   // Change css style
