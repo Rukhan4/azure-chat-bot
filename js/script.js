@@ -19,6 +19,15 @@
     bubbleFromUserBackground: "white",
   });
 
+  // Change css style
+  styleSet.textContent = {
+    ...styleSet.textContent,
+    fontFamily: "'Courier', 'Arial', sans-serif",
+    fontWeight: "bold",
+    fontSize: "1.1em",
+  };
+
+  // Initiate the bot
   window.WebChat.renderWebChat(
     {
       directLine: window.WebChat.createDirectLine({ token }),
