@@ -14,8 +14,9 @@
 
   // Set CSS rules
   const styleSet = window.WebChat.createStyleSet({
-    backgroundColor: "#FFD580",
+    backgroundColor: "#B0A8B9",
     bubbleBackground: "white",
+    bubbleFromUserBackground: "white",
   });
 
   window.WebChat.renderWebChat(
