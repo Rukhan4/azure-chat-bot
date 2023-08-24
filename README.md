@@ -5,17 +5,13 @@
 
 - **Custom Knowledge Base**: The bot is empowered by a meticulously curated knowledge base on everything there is to know about archery. It also contains information on uWaterloo's Archery Club.
 
-- **Tokenized Authentication**: Security is paramount, and the bot employs tokenized authentication to safeguard user interactions. This advanced authentication mechanism ensures that only authorized users can access and interact with the bot, preserving the integrity of sensitive information.
-
-- **HTML Frontend**: The bot's frontend interface is built using HTML, providing a visually appealing and user-friendly interaction platform. This HTML frontend facilitates easy navigation, interaction, and information retrieval, enhancing the overall user experience.
+- **HTML and CSS Frontend**: The bot's frontend interface provides a visually appealing and user-friendly interaction platform. This frontend facilitates easy navigation, interaction, and information retrieval, enhancing the overall user experience.
 
 - **JavaScript Bot Activator**: JavaScript serves as the dynamic bot activator, enabling real-time interactions and responses. The bot leverages JavaScript's capabilities to process user input, trigger appropriate responses, and seamlessly integrate with the HTML frontend.
 
-- **Summarized Information**: The bot intelligently selects important parts of its response to summarize the requested information before presenting a more detailed explanation.
-
 ## Benefits
 
-- **Intuitive User Interaction**: The combination of HTML and JavaScript creates a highly intuitive and responsive interface, ensuring users can effortlessly engage with the bot and access the information they need.
+- **Intuitive User Interaction**: The combination of HTML, CSS and JavaScript create a highly intuitive and responsive interface, ensuring users can effortlessly engage with the bot and access the information they need.
 
 - **Accurate Responses**: The custom knowledge base empowers the bot to provide accurate and contextually appropriate responses, enhancing user satisfaction and confidence in the bot's capabilities.
 
