@@ -3,6 +3,8 @@
 
 ## Key Features
 
+- **Azure**: Utilizes CI/CD infrastructure on Azure for hosting and bot implementation. Ensures fast response rate and maintains accuracy through natural language processing. 
+
 - **Custom Knowledge Base**: The bot is empowered by a meticulously curated knowledge base on everything there is to know about archery. It also contains information on uWaterloo's Archery Club.
 
 - **HTML and CSS Frontend**: The bot's frontend interface provides a visually appealing and user-friendly interaction platform. This frontend facilitates easy navigation, interaction, and information retrieval, enhancing the overall user experience.
