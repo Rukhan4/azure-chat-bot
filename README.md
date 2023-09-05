@@ -42,7 +42,7 @@ Please ensure your code follows our coding standards and practices. We'll review
 
 ### Bot usage 
 
-<img src="./assets/sample1.1.PNG" alt="Alt Text" style="max-width=100%;">
+<img src="./assets/sample1.2.PNG" alt="Alt Text" style="max-width=100%;">
 <img src="./assets/sample2.1.PNG" alt="Alt Text" style="max-width=100%;">
 
 
